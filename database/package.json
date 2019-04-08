@@ -1,0 +1,22 @@
+{
+  "name": "database",
+  "version": "1.0.0",
+  "description": "Tailorgang Database Module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tailorgang Nugitech Developers",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "axon": "^2.0.3",
+    "bcrypt-node": "^0.1.0",
+    "bcrypt-nodejs": "0.0.3",
+    "mixwith": "^0.1.1",
+    "moloquent": "^1.0.1",
+    "mongoosastic": "^4.4.1",
+    "mongoose": "^5.2.0",
+    "node-bcrypt": "0.0.1"
+  }
+}
